@@ -46,3 +46,7 @@
 <a href="https://www.linkedin.com/in/alexsander-sampaio-lima-b43219241/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
+
+
+
+<img src="https://raw.githubusercontent.com/alex-sampaio-lima/alex-sampaio-lima/output/snake.svg" alt="Snake animation" />
